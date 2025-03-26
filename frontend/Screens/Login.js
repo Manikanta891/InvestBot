@@ -296,7 +296,7 @@ const styles = StyleSheet.create({
   otpButton: {
     width: "30%",
     height: 50,
-    backgroundColor: "#3399ff",
+    backgroundColor: "#228b22",
     borderRadius: 8,
     justifyContent: "center",
     alignItems: "center",

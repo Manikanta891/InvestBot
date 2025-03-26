@@ -156,7 +156,7 @@ const styles = StyleSheet.create({
   button: {
     width: '100%', 
     height: 50, 
-    backgroundColor: '#3399ff', 
+    backgroundColor: '#228b22', 
     borderRadius: 8, 
     justifyContent: 'center',
     alignItems: 'center', 
@@ -188,7 +188,7 @@ const styles = StyleSheet.create({
     fontFamily:"monospace"
   },
   loginLink: {
-    color: '#3399ff',
+    color: '#228b22',
     fontWeight: 'bold',
     textDecorationLine: 'underline',
   },
