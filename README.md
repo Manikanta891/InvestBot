@@ -75,6 +75,7 @@ For the hundreds of millions of investors entering the Indian market, manual fin
 | **Database**  | MongoDB                                                                             |
 | **APIs**      | Yahoo Finance API (via `finance-2`), Fyers API, Email API, YouTube Data API v3     |
 | **Cloud**     | Google Cloud Platform (GCP)                                                         |
+| **Machine Learning** | PyTorch, TensorFlow , Numpy , Pandas                                         |
 
 ---
 
