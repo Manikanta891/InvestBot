@@ -1,1 +1,2 @@
-export default api="http://192.168.0.150:3000"
+export default api="https://financebackend-jpas.onrender.com"
+//export default api="http://192.168.0.187:3000"r

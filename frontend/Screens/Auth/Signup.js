@@ -6,7 +6,7 @@ import { useNavigation } from '@react-navigation/native';
 import axios from 'axios';
 import { Picker } from '@react-native-picker/picker';
 import LottieView from "lottie-react-native";
-import api from "./api.js"
+import api from "../api.js"
 
 export default function SignUpPage() {
   const [username, setUsername] = useState('');
@@ -60,7 +60,7 @@ export default function SignUpPage() {
       <View style={styles.container}>
         <View style={styles.animationContainer}>
           <LottieView 
-            source={require("../assets/animations/man-thinks.json")} 
+            source={require("../../assets/animations/man-thinks.json")} 
             autoPlay 
             loop 
             style={{ width: 200, height: 200 }} 
@@ -191,5 +191,5 @@ const styles = StyleSheet.create({
     color: '#228b22',
     fontWeight: 'bold',
     textDecorationLine: 'underline',
-  },
+  },
 });
